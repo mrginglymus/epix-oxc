@@ -4,8 +4,12 @@
   "type": "module",
   "devDependencies": {
     "eslint": "^9.22.0",
-    "eslint-plugin-import-x": "https://pkg.csb.dev/un-ts/eslint-plugin-import-x/commit/d794a858/eslint-plugin-import-x/_pkg.tgz",
+    "eslint-plugin-import-x": "https://pkg.csb.dev/un-ts/eslint-plugin-import-x/commit/c115e722/eslint-plugin-import-x/_pkg.tgz",
     "react": "^19.0.0"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./add": "./add.js?custom"
   },
   "scripts": {
     "lint": "eslint ."

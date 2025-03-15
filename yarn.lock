@@ -538,7 +538,7 @@ __metadata:
   resolution: "epix-oxc@workspace:."
   dependencies:
     eslint: "npm:^9.22.0"
-    eslint-plugin-import-x: "https://pkg.csb.dev/un-ts/eslint-plugin-import-x/commit/d794a858/eslint-plugin-import-x/_pkg.tgz"
+    eslint-plugin-import-x: "https://pkg.csb.dev/un-ts/eslint-plugin-import-x/commit/c115e722/eslint-plugin-import-x/_pkg.tgz"
     react: "npm:^19.0.0"
   languageName: unknown
   linkType: soft
@@ -561,9 +561,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-import-x@https://pkg.csb.dev/un-ts/eslint-plugin-import-x/commit/d794a858/eslint-plugin-import-x/_pkg.tgz":
+"eslint-plugin-import-x@https://pkg.csb.dev/un-ts/eslint-plugin-import-x/commit/c115e722/eslint-plugin-import-x/_pkg.tgz":
   version: 4.7.0
-  resolution: "eslint-plugin-import-x@https://pkg.csb.dev/un-ts/eslint-plugin-import-x/commit/d794a858/eslint-plugin-import-x/_pkg.tgz"
+  resolution: "eslint-plugin-import-x@https://pkg.csb.dev/un-ts/eslint-plugin-import-x/commit/c115e722/eslint-plugin-import-x/_pkg.tgz"
   dependencies:
     "@types/doctrine": "npm:^0.0.9"
     "@typescript-eslint/utils": "npm:^8.26.1"
@@ -579,7 +579,7 @@ __metadata:
     tslib: "npm:^2.8.1"
   peerDependencies:
     eslint: ^8.57.0 || ^9.0.0
-  checksum: 10c0/e9db01c81d78b08da89b5a3f76604e49bff8659d392662e248066aaccc2d7ebd8ad4613d151ed8e9a3862013884526bf59e02e1e38963314142d03ed317ea055
+  checksum: 10c0/d5469af1b05c45eb3c05179bb98e7f93899aa6211a4428e9d1758ca208b27cfde75e425881a38d4bd7bdf0d7c798da2d86a2b1c3745aed4307257d2247d9b10b
   languageName: node
   linkType: hard
 
