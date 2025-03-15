@@ -1,0 +1,13 @@
+{
+  "name": "epix-oxc",
+  "packageManager": "yarn@4.7.0",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^9.22.0",
+    "eslint-plugin-import-x": "^4.7.0",
+    "react": "^19.0.0"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  }
+}
