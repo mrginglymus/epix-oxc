@@ -3,9 +3,9 @@
   "packageManager": "yarn@4.7.0",
   "type": "module",
   "devDependencies": {
+    "beachball": "^2.51.0",
     "eslint": "^9.22.0",
-    "eslint-plugin-import-x": "https://pkg.csb.dev/un-ts/eslint-plugin-import-x/commit/c115e722/eslint-plugin-import-x/_pkg.tgz",
-    "react": "^19.0.0"
+    "eslint-plugin-import-x": "4.8.1"
   },
   "exports": {
     ".": "./index.js",

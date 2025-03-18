@@ -1,11 +1,3 @@
-import React from 'react';
+import { bump } from "beachball/lib/commands/bump.js";
 
-import pnp from 'pnpapi';
-
-import add from 'epix-oxc/add';
-
-console.log(add);
-
-console.log(pnp);
-
-console.log(React);
+console.log(bump)
